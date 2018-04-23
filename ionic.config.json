@@ -1,6 +1,5 @@
 {
   "name": "languaship_mobile",
-  "app_id": "86b7a72d",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
@@ -10,5 +9,6 @@
       "path": "/",
       "proxyUrl": "https://languaship.herokuapp.com/api/v1"
     }
-  ]
+  ],
+  "app_id": "86b7a72d"
 }
